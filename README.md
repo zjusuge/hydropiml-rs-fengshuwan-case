@@ -31,22 +31,6 @@ The machine-learning learners listed in the script, including Random Forest, Ext
 
 ## 2. Repository structure
 
-Recommended repository structure:
-
-```text
-HydroPIML-RS/
-│
-├── hydropiml_rs_main.py
-├── data.xlsx
-├── requirements.txt
-├── README.md
-│
-└── HydroPIML_RS_code_availability_outputs/
-    ├── HydroPIML_RS_prediction_summary.xlsx
-    ├── predictions/
-    └── reference/
-```
-
 Main files:
 
 | File or folder | Description |
