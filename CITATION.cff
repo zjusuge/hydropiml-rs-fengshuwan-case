@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the repository and the Zenodo dataset."
+title: "HydroPIML-RS prediction code for the Fengshuwan catchment"
+authors:
+  - family-names: Wang
+    given-names: Tianlong
+date-released: "2026-05-07"
+abstract: "Lightweight reproducibility repository for the HydroPIML-RS short-lead hydrological prediction experiment in the Fengshuwan catchment."
+repository-code: "https://github.com/zjusuge/hydropiml-rs-fengshuwan-case"
+url: "https://github.com/zjusuge/hydropiml-rs-fengshuwan-case"
+license: "MIT"
+keywords:
+  - HydroPIML-RS
+  - physics-informed machine learning
+  - residual stacking
+  - hydrological prediction
+  - runoff prediction
+  - water-stage prediction
+  - Fengshuwan catchment
+  - small mountain catchment
+  - debris flow
+references:
+  - type: data
+    authors:
+      - family-names: Wang
+        given-names: Tianlong
+    title: "Processed Daily Hydrological Dataset for the Fengshuwan Catchment, Zhejiang, China, 2023–2026"
+    year: 2026
+    version: "v1.0.0"
+    doi: "10.5281/zenodo.20068173"
+    url: "https://doi.org/10.5281/zenodo.20068173"
